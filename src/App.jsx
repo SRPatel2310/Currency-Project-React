@@ -1,6 +1,6 @@
 import { useState } from "react";
 import BackgroundImage from "./assets/wp2300372.jpg";
-import { InputBox } from "./Componet";
+import InputBox from "./Componet/InputBox";
 import useCurrencyInfo from "./Hook/UseCurrencyInfo";
 
 function App() {
